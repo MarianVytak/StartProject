@@ -1,10 +1,10 @@
 {
-    "name": "gulp-scss-starter",
+    "name": "webpack-starter",
     "description": "Frontend development with pleasure",
-    "author": "Andrey Gorokhov",
+    "author": "Marian Vytak",
     "repository": {
         "type": "git",
-        "url": "https://github.com/andreyalexeich/gulp-scss-starter.git"
+        "url": "https://github.com/MarianVytak/StartProject.git"
     },
     "license": "MIT",
     "scripts": {
@@ -64,6 +64,8 @@
         "yargs": "^13.2.4"
     },
     "dependencies": {
-        "smart-grid": "^2.1.2"
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.4.1",
+        "slick-carousel": "^1.9.0"
     }
 }
