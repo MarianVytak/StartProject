@@ -11,7 +11,7 @@
 
 ## Установка
 * установите [NodeJS](https://nodejs.org/en/) (если требуется) и [Yarn](https://yarnpkg.com/en/docs/install)
-* скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone https://github.com/andreyalexeich/gulp-scss-starter.git```
+* скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone git@github.com:MarianVytak/StartProject.git```
 * установите ```gulp``` глобально: ```yarn global add gulp-cli```
 * перейдите в скачанную папку со сборкой: ```cd gulp-scss-starter```
 * скачайте необходимые зависимости: ```yarn```
